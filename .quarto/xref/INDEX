@@ -10,5 +10,20 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "daa1c2d4"
+  },
+  "posts/1-why-write-blog/index.qmd": {
+    "index.html": "4875ef90"
+  },
+  "posts/2-how-to-set-up/index.qmd": {
+    "index.html": "dcf3116d"
+  },
+  "posts/3-understanding-vs-interpreting/index.qmd": {
+    "index.html": "793d77a2"
+  },
+  "posts/4-ego-vs-confidence/index.qmd": {
+    "index.html": "193c3f3f"
+  },
+  "posts/5-all-those-services/index.qmd": {
+    "index.html": "62bb9644"
   }
 }
