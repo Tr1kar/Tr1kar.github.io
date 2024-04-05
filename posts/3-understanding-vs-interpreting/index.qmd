@@ -1,0 +1,12 @@
+---
+title: "Why AI models are 'black boxes'?"
+author: "Aleksandr Ramaniuk"
+date: "2024-04-01"
+categories: [news]
+---
+
+- Asimov 'Profession'
+- I wonder why ML is so mystical and "black-box"
+- You can get intermediate results - the question is whether they are interpretable
+- Too many degrees of freedom
+- Why not insert understanding? You need to work faster (history of good vs fast project)

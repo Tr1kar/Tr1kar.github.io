@@ -1,0 +1,19 @@
+---
+title: "What are all those services?"
+author: "Tristan O'Malley"
+date: "2024-04-01"
+categories: [news]
+---
+
+What are all these things you need?
+- Link to roadmap
+- VSC
+- Python
+- SQL
+- Docker
+- Huggingface
+- Gradio
+- Git
+- GitHub
+- Anaconda
+

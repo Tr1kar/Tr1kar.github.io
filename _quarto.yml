@@ -4,16 +4,16 @@ project:
 
 
 website:
-  title: "(Y): but why?"
-  site-url: ''
+  title: "(Y): But Why?"
+  site-url: https://tr1kar.github.io/
   description: 'Blog about understanding data and data science'
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/Tr1kar
+      - icon: linkedin
+        href: https://www.linkedin.com/in/alexraman92/
 
 
 format:

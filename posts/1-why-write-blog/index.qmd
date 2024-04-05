@@ -1,0 +1,20 @@
+---
+title: "Why am I writing this blog"
+author: "Aleksandr Ramaniuk"
+date: "2024-04-01"
+categories: [news]
+---
+
+Who am I
+- PhD in physics - optics / nonlinear / fibers
+- ML/DS re-qualifying
+- Screenwriting / narrative design aspiring
+- Psychology / self-development amateur
+
+I will be all over the place, because this is who I am and this is how my ADHD works.
+
+Why am I writing
+- Structure
+- Re-learn
+- Help someone step behind
+- Train my writing muscle
