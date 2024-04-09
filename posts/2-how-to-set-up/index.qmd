@@ -3,6 +3,7 @@ title: "How to set up blog (VSCode + conda + quarto + github pages)"
 author: "Aleksandr Ramaniuk"
 date: "2024-04-01"
 categories: [news]
+draft: true
 ---
 
 How did I set up my blog (VSCode + conda + quarto + github pages)

@@ -3,6 +3,7 @@ title: "What are all those services?"
 author: "Tristan O'Malley"
 date: "2024-04-01"
 categories: [news]
+draft: true
 ---
 
 What are all these things you need?

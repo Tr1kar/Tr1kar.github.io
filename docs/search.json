@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\nFor a demonstration of a line plot on a polar axis, see Figure 1.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
-  },
-  {
-    "objectID": "posts/4-ego-vs-confidence/index.html",
-    "href": "posts/4-ego-vs-confidence/index.html",
-    "title": "Confidence vs Ego",
-    "section": "",
-    "text": "How to deal with comparing to others\nLook for cool people\nLink to HG\n“Ego” is about comapisons to external\n“Confidence” is about internal\nCompare yourself with your past self\n“Impostor syndrome” is healed by overcoming failures"
-  },
-  {
-    "objectID": "posts/2-how-to-set-up/index.html",
-    "href": "posts/2-how-to-set-up/index.html",
-    "title": "How to set up blog (VSCode + conda + quarto + github pages)",
-    "section": "",
-    "text": "How did I set up my blog (VSCode + conda + quarto + github pages)"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "blog_folder",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 4, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWhy am I writing this blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\nAleksandr Ramaniuk\n\n\n\n\n\n\n\n\n\n\n\n\nHow to set up blog (VSCode + conda + quarto + github pages)\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\nAleksandr Ramaniuk\n\n\n\n\n\n\n\n\n\n\n\n\nWhy AI models are ‘black boxes’?\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\nAleksandr Ramaniuk\n\n\n\n\n\n\n\n\n\n\n\n\nConfidence vs Ego\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nWhat are all those services?\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Why am I writing this blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\nAleksandr Ramaniuk\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -40,19 +19,5 @@
     "title": "Why am I writing this blog",
     "section": "",
     "text": "Who am I - PhD in physics - optics / nonlinear / fibers - ML/DS re-qualifying - Screenwriting / narrative design aspiring - Psychology / self-development amateur\nI will be all over the place, because this is who I am and this is how my ADHD works.\nWhy am I writing - Structure - Re-learn - Help someone step behind - Train my writing muscle"
-  },
-  {
-    "objectID": "posts/3-understanding-vs-interpreting/index.html",
-    "href": "posts/3-understanding-vs-interpreting/index.html",
-    "title": "Why AI models are ‘black boxes’?",
-    "section": "",
-    "text": "Asimov ‘Profession’\nI wonder why ML is so mystical and “black-box”\nYou can get intermediate results - the question is whether they are interpretable\nToo many degrees of freedom\nWhy not insert understanding? You need to work faster (history of good vs fast project)"
-  },
-  {
-    "objectID": "posts/5-all-those-services/index.html",
-    "href": "posts/5-all-those-services/index.html",
-    "title": "What are all those services?",
-    "section": "",
-    "text": "What are all these things you need? - Link to roadmap - VSC - Python - SQL - Docker - Huggingface - Gradio - Git - GitHub - Anaconda"
   }
 ]

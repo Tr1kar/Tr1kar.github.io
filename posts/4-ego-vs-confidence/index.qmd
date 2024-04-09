@@ -3,6 +3,7 @@ title: "Confidence vs Ego"
 author: "Tristan O'Malley"
 date: "2024-04-01"
 categories: [news]
+draft: true
 ---
 
 - How to deal with comparing to others

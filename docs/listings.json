@@ -2,12 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/1-why-write-blog/index.html",
-      "/posts/2-how-to-set-up/index.html",
-      "/posts/3-understanding-vs-interpreting/index.html",
-      "/posts/4-ego-vs-confidence/index.html",
-      "/posts/5-all-those-services/index.html"
+      "/posts/1-why-write-blog/index.html"
     ]
   }
 ]
