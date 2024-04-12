@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: DSC07142.jpg
 about:
   template: jolla
   links:
@@ -13,8 +13,9 @@ about:
 
 ---
 
-Who am I
-- PhD in physics - optics / nonlinear / fibers
-- ML/DS re-qualifying
-- Screenwriting / narrative design aspiring
-- Psychology / self-development amateur
+My name is Alex, and I'm a self-described "person of broad interests"
+
+- I'm a **physicist**. I got my PhD in theoretical physics, specifically nonlinear optics. I specialize in nonlinear fiber optics, but my interests include photonics, nonlinear optics, quantum optics, nanotechnology and much-much more.
+- I'm a **data scientist**. I'm currently re-qualifying to become machine learning engineer and/or data scientist.
+- I'm a **storyteller**. I have a dream of becoming a screenwriter or narrative designer. So far, my creative will goes into my 10+ years of experience with tabletop RPGs, as player and gamemaster.
+- I'm an **explorer of mind**. I am interested in psychology, philosophy and different manners of self-development. I've been through coaching, therapy, ADHD diagnosis - and I've come out feeling much better afterwards.
